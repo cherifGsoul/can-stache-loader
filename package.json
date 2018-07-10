@@ -27,8 +27,8 @@
     "can-stache": "^4.0.0",
     "can-stache-ast": "^1.0.0",
     "can-stache-bindings": "^4.0.0",
-    "can-stache-loader": "^1.0.0-beta",
     "can-view-import": "^4.2.0",
+    "qunit": "^2.6.1",
     "webpack": "^4.15.1",
     "webpack-cli": "^3.0.8"
   },
